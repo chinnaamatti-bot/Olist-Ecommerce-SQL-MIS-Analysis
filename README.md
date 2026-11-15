@@ -56,7 +56,7 @@ During database ingestion, operational milestones were imported from raw CSV for
 ## 📁 Repository Structure
 To maintain a professional **Reproducible Analytical Pipeline (RAP)** environment, this project is split into three core assets:
 1.  `Olist_SQL_Queries_and_Insights.pdf`: Documentation outlining with problems, syntax, result and insights.
-2. `Olist_SQL_Clean_Documentation.docx`: The primary production script containing all 10 PostgreSQL-optimized analytical queries complete with comprehensive query definitions and technical metrics.
+2. `Olist_SQL_Clean_Documentation.pdf`: The primary production script containing all 10 PostgreSQL-optimized analytical queries complete with comprehensive query definitions and technical metrics.
 3. `README.md`: Executive dashboard review summarizing database engineering constraints and strategic business values.
 
 ---
